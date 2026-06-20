@@ -52,7 +52,7 @@ Página web responsiva desarrollada con HTML/CSS como parte de proyecto de progr
 
 ## 📫 Contacto
 
-[![Email](https://img.shields.io/badge/Email-cona__17%40outlook.com-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:carlosnajera-dev@outlook.com)
+[![Email](https://img.shields.io/badge/Email-carlosnajera--dev%40outlook.com-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:carlosnajera-dev@outlook.com)
 [![GitHub](https://img.shields.io/badge/GitHub-CharlyOmar-181717?style=flat&logo=github&logoColor=white)](https://github.com/CharlyOmar)
 
 ---
